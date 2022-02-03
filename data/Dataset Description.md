@@ -1,4 +1,4 @@
-#EV Datasets ("A Review of Electric Vehicle Load Open Data and Models" by Amara-Ouali et al. in 2021 in Energies)**	
+#**EV Datasets ("A Review of Electric Vehicle Load Open Data and Models" by Amara-Ouali et al. in 2021 in Energies)**	
 ## Ref	City			Link
 82	Boulder 		https://open-data.bouldercolorado.gov/datasets/183adc24880b41c4be9fd6a14eb6165f_0/explore
 83	Aplo Alto		https://data.cityofpaloalto.org/dataviews/257812/electric-vehicle-charging-station-usage-july-2011-dec-2020/
